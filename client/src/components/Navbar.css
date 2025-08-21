@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #4ade80; /* green outline */
+    border-radius: 20px;
+    padding: 8px 16px;
+    background-color: black;
+    font-family: "Comic Neue", cursive;
+    font-size: 1.2rem;
+    color: #4ade80;
+}
+
+.navbar-title,
+.navbar-username {
+    border: 2px solid #4ade80;
+    border-radius: 10px;
+    padding: 4px 10px;
+}
